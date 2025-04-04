@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>una.ac.cr</groupId>
-    <artifactId>proyecto1_arween_granados</artifactId>
+    <groupId>com.mycompany</groupId>
+    <artifactId>Proyecto1_Arween_Granados</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +36,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.4</version>
                 <configuration>
-                    <mainClass>una.ac.cr.proyecto1_arween_granados.App</mainClass>
+                    <mainClass>com.mycompany.proyecto1_arween_granados.App</mainClass>
                 </configuration>
                 <executions>
                     <execution>

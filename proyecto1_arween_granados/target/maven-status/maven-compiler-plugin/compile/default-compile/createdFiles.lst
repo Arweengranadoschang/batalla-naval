@@ -1,7 +1,6 @@
-una\ac\cr\proyecto1_arween_granados\barcos.class
-una\ac\cr\proyecto1_arween_granados\controllers\PrimaryController.class
-una\ac\cr\proyecto1_arween_granados\tablero.class
-una\ac\cr\proyecto1_arween_granados\App.class
-una\ac\cr\proyecto1_arween_granados\menu.class
-una\ac\cr\proyecto1_arween_granados\controllers\SecondaryController.class
-una\ac\cr\proyecto1_arween_granados\controllers\MainmenuController.class
+com\mycompany\proyecto1_arween_granados\controllers\modosController.class
+com\mycompany\proyecto1_arween_granados\controllers\menuController.class
+com\mycompany\proyecto1_arween_granados\App.class
+com\mycompany\proyecto1_arween_granados\barco.class
+com\mycompany\proyecto1_arween_granados\controllers\dificultadesController.class
+com\mycompany\proyecto1_arween_granados\controllers\TableroController.class
